@@ -1,7 +1,9 @@
 .logo{
-position: relative;
-padding-left: 12em
--webkit-padding-start: inherit
+    position: relative;
+    padding-right: 400px;
+    padding-left: 50%;
+    padding-top: 400px;
+    padding-bottom: 50%;
 }
 .btn{
     position: inherit;
