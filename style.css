@@ -3,5 +3,9 @@ position: center;
 -webkit-padding-start: inherit
 }
 .btn{
-    position: relative;
+    position: inherit;
+}
+
+.search-bar{
+    position: inherit;
 }
